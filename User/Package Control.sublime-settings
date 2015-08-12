@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"apiDoc Autocompletion",
+		"BracketHighlighter",
+		"Diffy",
+		"FileDiffs",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HtmlTidy",
+		"Jade",
+		"JsFormat",
+		"JSHint",
+		"Package Control",
+		"Pretty JSON",
+		"RESTer HTTP Client",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Vintage Escape"
+	]
+}
